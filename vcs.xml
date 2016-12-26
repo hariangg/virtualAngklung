@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/jukov/LANChat" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/noor21/NsdChat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\OneDrive\Documents\PresUniv\Thesis\Project\" />
