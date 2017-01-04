@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File 'E:\OneDrive\Documents\PresUniv\Thesis\Project\TabHostExample\app\src\main\res\layout\fragment_one_layout.xml'" />
     <option name="defaultScopeName" value="File 'E:\OneDrive\Documents\PresUniv\Thesis\Project\TabHostExample\app\src\main\res\layout\fragment_one_layout.xml'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File 'E:\OneDrive\Documents\PresUniv\Thesis\Project\TabHostExample\app\src\main\res\layout\fragment_one_layout.xml'" />
   </component>
 </application>
